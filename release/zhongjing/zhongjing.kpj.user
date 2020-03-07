@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>4</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\zhongjing.kpj</path>
+    <file ID="id_9dcbf998043909a084e33e4b00cc45a0" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_9dcbf998043909a084e33e4b00cc45a0</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\zhongjing.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_571a3195a92cf9458956dfbf0d45e020</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\zhongjing.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\HISTORY.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\LICENSE.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_c5290db296fc774adc309ba09f1b774a</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\zhongjing.keyboard_info</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_25e7ab5ff20b7c4eb74c61afd29825dd</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\..\build\zhongjing.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_64ad5ecefc035a1f745487e55becaa27</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\..\build\zhongjing.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c5b300bf831d3b4630fbe98ecf90ef2b</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\..\build\zhongjing.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>zhongjing.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\zhongjing.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>install.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\install.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>zhongjing.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\zhongjing.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>zhongjing.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\zhongjing.keyboard_info</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>zhongjing.kvks</Filename>
+      <FileType>.kvks</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\source\zhongjing.kvks</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>zhongjing.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\build\zhongjing.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>HISTORY.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\HISTORY.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>LICENSE.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\LICENSE.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\TheMiningBoyAlpha\Documents\Keyman Developer\Projects\zhongjing\README.md</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.102.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.0</Version>
+    <Name URL="">Zhongjing</Name>
+    <Copyright URL="">©2020 Matsu</Copyright>
+  </Info>
+  <Files>
+    <File>
+      <Name>build\zhongjing.kvk</Name>
+      <Description>File zhongjing.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>build\zhongjing.kmx</Name>
+      <Description>Keyboard Zhongjing</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>build\zhongjing.js</Name>
+      <Description>File zhongjing.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Zhongjing</Name>
+      <ID>zhongjing</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="zh-Hant-YE">Zhongjing</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

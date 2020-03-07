@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>zhongjing</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_1">$</key>
+      <key vkey="K_QUOTE">}</key>
+      <key vkey="K_3">#</key>
+      <key vkey="K_4">元</key>
+      <key vkey="K_5">%</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_9">千</key>
+      <key vkey="K_0">万</key>
+      <key vkey="K_8">百</key>
+      <key vkey="K_EQUAL">+</key>
+      <key vkey="K_COLON">{</key>
+      <key vkey="K_COMMA">炸</key>
+      <key vkey="K_PERIOD">(</key>
+      <key vkey="K_SLASH">)</key>
+      <key vkey="K_2">@</key>
+      <key vkey="K_A">刀</key>
+      <key vkey="K_B">車</key>
+      <key vkey="K_C">包</key>
+      <key vkey="K_D">囚</key>
+      <key vkey="K_E">炒</key>
+      <key vkey="K_F">国</key>
+      <key vkey="K_G">草</key>
+      <key vkey="K_H">兄</key>
+      <key vkey="K_I">火</key>
+      <key vkey="K_J">茶</key>
+      <key vkey="K_K">区</key>
+      <key vkey="K_L">見</key>
+      <key vkey="K_M">砲</key>
+      <key vkey="K_N">作</key>
+      <key vkey="K_O">水</key>
+      <key vkey="K_P">土</key>
+      <key vkey="K_Q">面</key>
+      <key vkey="K_R">菜</key>
+      <key vkey="K_S">迵</key>
+      <key vkey="K_T">素</key>
+      <key vkey="K_U">田</key>
+      <key vkey="K_V">句</key>
+      <key vkey="K_W">貼</key>
+      <key vkey="K_X">子</key>
+      <key vkey="K_Y">丿</key>
+      <key vkey="K_Z">画</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_LBRKT">[</key>
+      <key vkey="K_RBRKT">]</key>
+      <key vkey="K_BKQUOTE">~</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">!</key>
+      <key vkey="K_COMMA">円</key>
+      <key vkey="K_HYPHEN">-</key>
+      <key vkey="K_PERIOD">。</key>
+      <key vkey="K_SLASH">?</key>
+      <key vkey="K_0">十</key>
+      <key vkey="K_1">一</key>
+      <key vkey="K_2">二</key>
+      <key vkey="K_3">三</key>
+      <key vkey="K_4">四</key>
+      <key vkey="K_5">五</key>
+      <key vkey="K_6">六</key>
+      <key vkey="K_7">匕</key>
+      <key vkey="K_8">八</key>
+      <key vkey="K_9">九</key>
+      <key vkey="K_COLON">,</key>
+      <key vkey="K_EQUAL">=</key>
+      <key vkey="K_LBRKT">「</key>
+      <key vkey="K_RBRKT">」</key>
+      <key vkey="K_BKQUOTE">`</key>
+      <key vkey="K_A">么</key>
+      <key vkey="K_B">本</key>
+      <key vkey="K_C">大</key>
+      <key vkey="K_D">字</key>
+      <key vkey="K_E">中</key>
+      <key vkey="K_F">见</key>
+      <key vkey="K_G">日</key>
+      <key vkey="K_H">月</key>
+      <key vkey="K_I">再</key>
+      <key vkey="K_J">木</key>
+      <key vkey="K_K">山</key>
+      <key vkey="K_L">川</key>
+      <key vkey="K_M">肉</key>
+      <key vkey="K_N">鸡</key>
+      <key vkey="K_O">我</key>
+      <key vkey="K_P">什</key>
+      <key vkey="K_Q">上</key>
+      <key vkey="K_R">人</key>
+      <key vkey="K_S">名</key>
+      <key vkey="K_T">好</key>
+      <key vkey="K_U">叫</key>
+      <key vkey="K_V">小</key>
+      <key vkey="K_W">下</key>
+      <key vkey="K_X">少</key>
+      <key vkey="K_Y">你</key>
+      <key vkey="K_Z">門</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
